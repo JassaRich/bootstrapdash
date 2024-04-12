@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129.075" height="80.674" viewBox="0 0 129.075 80.674">
+  <g id="Group_1" data-name="Group 1" transform="translate(0 0.001)">
+    <g id="Group_1-2" data-name="Group 1">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="22.818" height="22.818" transform="translate(16.134 48.403) rotate(-45)" fill="#28256d" opacity="0.6"/>
+      <path id="Rectangle_11" data-name="Rectangle 11" d="M0,22.818H22.818V0H2.926A2.926,2.926,0,0,0,0,2.926Z" transform="translate(0 32.269) rotate(-45)" fill="#28256d" opacity="0.8"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="22.818" height="22.818" transform="translate(48.403 48.403) rotate(-45)" fill="#28256d" opacity="0.6"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="22.818" height="22.818" transform="translate(32.268 32.269) rotate(-45)" fill="#28256d" opacity="0.8"/>
+      <path id="Rectangle_13" data-name="Rectangle 13" d="M0,22.818H22.818V2.926A2.926,2.926,0,0,0,19.892,0H0Z" transform="translate(48.403 16.134) rotate(-45)" fill="#28256d"/>
+      <path id="Rectangle_14" data-name="Rectangle 14" d="M0,22.818H22.818V2.926A2.926,2.926,0,0,0,19.892,0H0Z" transform="translate(16.134 16.134) rotate(-45)" fill="#28256d"/>
+      <path id="Rectangle_15" data-name="Rectangle 15" d="M0,22.818H22.818V2.926A2.926,2.926,0,0,0,19.892,0H0Z" transform="translate(80.671 16.134) rotate(-45)" fill="#28256d"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="22.818" height="22.818" transform="translate(64.537 32.269) rotate(-45)" fill="#28256d" opacity="0.8"/>
+      <path id="Rectangle_12" data-name="Rectangle 12" d="M0,22.818H19.892a2.926,2.926,0,0,0,2.926-2.926V0H0Z" transform="translate(96.805 32.269) rotate(-45)" fill="#28256d" opacity="0.8"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="22.818" height="22.818" transform="translate(80.671 48.403) rotate(-45)" fill="#28256d" opacity="0.6"/>
+      <path id="Rectangle_5" data-name="Rectangle 5" d="M2.194,22.818H22.818V0H0V20.623a2.194,2.194,0,0,0,2.194,2.194Z" transform="translate(32.268 64.538) rotate(-45)" fill="#28256d" opacity="0.4"/>
+      <path id="Rectangle_6" data-name="Rectangle 6" d="M2.194,22.818H22.818V0H0V20.623a2.194,2.194,0,0,0,2.194,2.194Z" transform="translate(64.537 64.538) rotate(-45)" fill="#28256d" opacity="0.4"/>
+    </g>
+  </g>
+</svg>
